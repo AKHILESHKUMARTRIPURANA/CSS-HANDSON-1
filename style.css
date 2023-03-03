@@ -1,0 +1,39 @@
+h1
+{
+    color: red;
+}
+h2
+{
+    color: red;
+    font-style: italic;
+}
+ol
+{
+    color: maroon;
+    line-height: 45px;
+}
+ul
+{
+    color: maroon;
+    letter-spacing: 5px;
+}
+p
+{
+    color: maroon;
+}
+.prep
+{
+    text-decoration-line:none;
+    font-style: italic;
+    color: maroon;
+    background-color: yellow;
+}
+.under
+{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+.show
+{
+    text-decoration: line-through;
+}
